@@ -39,10 +39,9 @@ ansible-playbook/
 ├── site.yml
 ├── inventory/
 │   └── prod.yml
-└── screenshots/
+└── img/
     ├── 1.png
-    ├── 2.png
-    └── 3.png
+    └── 2.png
 ```
 
 ---
@@ -158,8 +157,6 @@ ansible-playbook/
 
 ## Скриншоты выполнения
 Скриншоты лежат в папке `img/`. Ниже примеры размещения:
-https://github.com/asad-bekov/hw-26/raw/main/img/1.png
-https://github.com/asad-bekov/hw-26/blob/main/img/1.PNG
 
 | Шаг | Превью |
 |-----|--------|
