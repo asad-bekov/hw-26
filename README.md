@@ -1,7 +1,7 @@
 # Домашнее задание к занятию 4 «Работа с roles»
 
->Репозиторий: hw‑26
->Выполнил: Асадбеков Асадбек
+>Репозиторий: hw‑26 \
+>Выполнил: Асадбеков Асадбек \
 >Дата выполнения: июль 2025
 
 ## Содержание
@@ -158,11 +158,13 @@ ansible-playbook/
 
 ## Скриншоты выполнения
 Скриншоты лежат в папке `img/`. Ниже примеры размещения:
+https://github.com/asad-bekov/hw-26/raw/main/img/1.png
+https://github.com/asad-bekov/hw-26/blob/main/img/1.PNG
 
 | Шаг | Превью |
 |-----|--------|
-| Установка ролей | ![](./img/1.png) |
-| Выполнение playbook | ![](./img/2.png) |
+| Установка ролей | ![Установка ролей](https://github.com/asad-bekov/hw-26/blob/main/img/1.PNG) |
+| Выполнение playbook | ![Выполнение playbook](https://github.com/asad-bekov/hw-26/blob/main/img/2.PNG) |
 
 ---
 
